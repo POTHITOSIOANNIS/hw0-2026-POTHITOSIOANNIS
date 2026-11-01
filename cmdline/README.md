@@ -1,17 +1,18 @@
 byte0: ΕΚΑΝΑ ls -la , ΜΠΗΚΑ ΜΕ cd ΚΑΙ ΔΙΑΒΑΣΑ ΜΕ cat
 byte1: ΕΓΡΑΨΑ /.supercalifragilisticexpialidocious
-byte2:
-byte3:
-byte4:
-byte5:
-byte6:
-byte7:
-byte8:
-byte9:
-byte10:
-byte11:
-byte12:
-byte13:
-byte14:
-byte15:
-byte16:
+byte2: ΕΓΡΑΨΑ grep -r "will find"
+byte3: ΕΓΡΑΨΑ 
+byte4: ΕΓΡΑΨΑ find . -name "cup.txt".
+byte5: ΕΦΤΙΑΞΑ ΦΑΚΕΛΟ ΜΕ ΤΟ /tmp ΕΚΑΝΑ cp gcc ΚΑΙ ΜΕΤΑ ΤΟ ΒΡΗΚΑ
+byte6: ΕΓΡΑΨΑ unzip ΚΑΙ ΔΙΑΒΑΣΑ ΤΟ ΑΡΧΕΙΟ
+byte7: ΕΓΡΑΨΑ tar -xzvf ΚΑΙ ΔΙΑΒΑΣΑ ΤΟ ΑΡΧΕΙΟ
+byte8: ΔΕΝ ΘΥΜΑΜΑΙ ΠΩΣ ΤΟ ΒΡΗΚΑ ΤΗΝ ΠΡΩΤΗ ΦΟΡΑ ΚΑΙ ΔΕΝ ΜΠΟΡΕΣΑ ΝΑ ΤΟ ΞΑΝΑΒΡΩ
+byte9: ΕΓΡΑΨΑ ls -la/home/byte9 ΚΑΙ cat
+byte10:ΕΓΡΑΨΑ sort names.txt | head -n 67 | tail -n 1
+byte11:ΕΓΡΑΨΑ sort births.txt |uniq -c | sort -nr | head -n 1
+byte12:ΕΓΡΑΨΑ which tuxsay ΓΙΑ ΝΑ ΒΡΩ ΤΗΝ ΔΙΑΔΡΟΜΗ
+byte13:ΕΓΡΑΨΑ git log 
+byte14:ΕΓΡΑΨΑ git log -p
+byte15:ΕΓΡΑΨΑ ls -la ΚΑΙ ΕΓΡΑΨΑ ΚΑΙ echo $?
+byte16:ΕΓΡΑΨΑ 2>/dev/null ΚΑΙ ΤΟ ΒΡΗΚΑ.
+ΥΠΟΣΗΜΕΙΩΣΗ. ΑΦΟΥ ΕΚΑΝΑ ΤΑ 16 bytes ΣΤΑΜΑΤΗΣΑ ΔΙΟΤΙ ΔΕΝ ΕΙΧΑ ΧΡΟΝΟ ΚΑΙ ΕΠΙΑΣΑ ΞΑΝΑ ΤΗΝ ΕΡΓΑΣΙΑ 4 ΗΜΕΡΕΣ ΜΕΤΑ ΟΠΟΥ ΕΙΔΑ ΟΤΙ ΠΡΕΠΕΙ ΝΑ ΓΡΑΦΟΥΜΕ ΕΞΗΓΗΣΗ ΟΠΟΤΕ ΚΑΠΟΙΑ ΤΑ ΕΓΡΑΨΑ ΟΠΩΣ ΤΑ ΘΥΜΟΜΟΥΝ ΚΑΙ ΚΑΠΟΙΑ ΠΡΟΣΠΑΘΗΣΑ ΝΑ ΤΑ ΞΑΝΑΛΥΣΩ ΟΠΟΤΕ ΣΥΓΝΩΜΗ ΑΝ ΔΕΝ ΕΙΝΑΙ ΚΑΤΑΝΟΗΤΗ Ή ΣΩΣΤΗ Η ΠΕΡΙΓΡΑΦΗ ΜΟΥ ΟΣΟ ΑΝΑΦΟΡΑ ΤΗΝ ΕΥΡΕΣΗ ΤΩΝ ΚΩΔΙΚΩΝ ΣΕ ΚΑΘΕ ΕΡΩΤΗΜΑ.
