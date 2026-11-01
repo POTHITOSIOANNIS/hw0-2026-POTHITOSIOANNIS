@@ -1,5 +1,5 @@
 byte0: ΕΚΑΝΑ ls -la , ΜΠΗΚΑ ΜΕ cd ΚΑΙ ΔΙΑΒΑΣΑ ΜΕ cat
-byte1:
+byte1: ΕΓΡΑΨΑ /.supercalifragilisticexpialidocious
 byte2:
 byte3:
 byte4:
