@@ -1,7 +1,7 @@
 * byte0: ΕΚΑΝΑ ls -la , ΜΠΗΚΑ ΜΕ cd ΚΑΙ ΔΙΑΒΑΣΑ ΜΕ cat
 * byte1: ΕΓΡΑΨΑ /.supercalifragilisticexpialidocious
 * byte2: ΕΓΡΑΨΑ grep -r "will find"
-* byte3: ΕΓΡΑΨΑ 
+* byte3: ΕΓΡΑΨΑ diff ΚΑΙ ΤΟ ΒΡΗΚΑ
 * byte4: ΕΓΡΑΨΑ find . -name "cup.txt".
 * byte5: ΕΦΤΙΑΞΑ ΦΑΚΕΛΟ ΜΕ ΤΟ /tmp ΕΚΑΝΑ cp gcc ΚΑΙ ΜΕΤΑ ΤΟ ΒΡΗΚΑ
 * byte6: ΕΓΡΑΨΑ unzip ΚΑΙ ΔΙΑΒΑΣΑ ΤΟ ΑΡΧΕΙΟ
